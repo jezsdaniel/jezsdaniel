@@ -1,4 +1,4 @@
-## 👨‍💻 Frontend Mobile Developer with 3 years of experience:
+## 👨‍💻 Frontend / Mobile Developer:
 
 - 📱 Specializing in crafting captivating user experiences for web and mobile apps.
 - 🌟 Proficient in React, Flutter, React Native, Jetpack Compose, and SwiftUI.
